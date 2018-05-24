@@ -76,6 +76,7 @@
     <None Include="ColorDefinitions\Cyan.json" />
     <None Include="ColorDefinitions\Gray.json" />
     <None Include="ColorDefinitions\Green.json" />
+    <None Include="ColorDefinitions\hsbList.json" />
     <None Include="ColorDefinitions\Orange.json" />
     <None Include="ColorDefinitions\Pink.json" />
     <None Include="ColorDefinitions\Purple.json" />
@@ -97,19 +98,19 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="17eaf6e871546303dcb9432104437d7e.jpg" />
-    <Content Include="2Red_Velvet_Blot-L_600x600.jpg" />
-    <Content Include="35-Ditte-Bright-Red.jpg" />
-    <Content Include="7190d69bd90870ec2551302fbe4e205b.jpg" />
-    <Content Include="759e25f54897eabed6d114131e4b392f.jpg" />
-    <Content Include="81370169f4606a4c0ed3293ea5126d9d.jpg" />
-    <Content Include="888b0b2c94a2fca611e7cf75dc78d2a7.jpg" />
-    <Content Include="8f35e29285cb080076fe238ee87981d5.jpg" />
-    <Content Include="all_you_need_is_love_schulz.jpg" />
-    <Content Include="d2453445fd0e72c56c6b875b569632c5.jpg" />
-    <Content Include="fd0acfb6c7dab2440475b964f74a85ab.jpg" />
-    <Content Include="feb944708b493af638af3d535cea0c0e.jpg" />
-    <Content Include="oranges.jpg" />
+    <Content Include="Images\17eaf6e871546303dcb9432104437d7e.jpg" />
+    <Content Include="Images\2Red_Velvet_Blot-L_600x600.jpg" />
+    <Content Include="Images\35-Ditte-Bright-Red.jpg" />
+    <Content Include="Images\7190d69bd90870ec2551302fbe4e205b.jpg" />
+    <Content Include="Images\759e25f54897eabed6d114131e4b392f.jpg" />
+    <Content Include="Images\81370169f4606a4c0ed3293ea5126d9d.jpg" />
+    <Content Include="Images\888b0b2c94a2fca611e7cf75dc78d2a7.jpg" />
+    <Content Include="Images\8f35e29285cb080076fe238ee87981d5.jpg" />
+    <Content Include="Images\all_you_need_is_love_schulz.jpg" />
+    <Content Include="Images\d2453445fd0e72c56c6b875b569632c5.jpg" />
+    <Content Include="Images\fd0acfb6c7dab2440475b964f74a85ab.jpg" />
+    <Content Include="Images\feb944708b493af638af3d535cea0c0e.jpg" />
+    <Content Include="Images\oranges.jpg" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
